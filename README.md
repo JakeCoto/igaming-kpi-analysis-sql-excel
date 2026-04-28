@@ -6,7 +6,7 @@ This is a portfolio-ready Junior Data Analyst project built around a simulated i
 
 The project analyzes fictional player, transaction, bonus, and A/B test data for Q1 2026.
 
-![Dashboard Preview](assets/dashboard_screenshot.png)
+![Dashboard Preview](dashboard_screenshot.png)
 
 ## Business Questions
 
