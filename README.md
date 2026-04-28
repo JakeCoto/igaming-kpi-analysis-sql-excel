@@ -6,7 +6,9 @@ I built this project as a Junior Data Analyst portfolio project using a simulate
 
 The project analyzes fictional player, transaction, bonus, and A/B test data for Q1 2026.
 
-![Dashboard Preview](./dashboard_screenshot.png)
+<p align="center">
+  <img src="./dashboard_screenshot.png" alt="Dashboard Preview" width="850">
+</p>
 
 ## Business Questions
 
