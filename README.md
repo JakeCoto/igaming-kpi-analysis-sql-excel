@@ -20,7 +20,7 @@ For this project, I focused on answering five main business questions:
 
 ## Tools and Skills Used
 
-This project gave me a chance to practice and demonstrate:
+This project demonstrates:
 
 - SQL analysis using joins, aggregations, CASE logic, CTEs, date filtering, and validation checks
 - Excel dashboarding and KPI reporting
@@ -71,7 +71,7 @@ Based on the simulated data, I found the following:
 
 ## How I Would Explain This Project in an Interview
 
-I built this project to practice the same type of work described in Junior Data Analyst job postings, especially roles involving SQL, Excel, KPI reporting, A/B testing, and data quality validation.
+I built this project to demonstrate the same type of work described in Junior Data Analyst job postings, especially roles involving SQL, Excel, KPI reporting, A/B testing, and data quality validation.
 
 The project uses simulated iGaming data to calculate metrics like GGR, NGR, deposits, withdrawals, churn, player LTV, bonus cost, and bonus abuse indicators. I also included an A/B test summary to compare a Control group against a Variant group using conversion rate, lift, p-value, and business impact.
 
