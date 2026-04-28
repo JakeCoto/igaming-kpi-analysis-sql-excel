@@ -1,0 +1,501 @@
+player_id,signup_date,player_segment,country,acquisition_channel,ab_group,risk_level
+P0001,2025-11-28,Casual,UK,Organic,Control,Medium
+P0002,2025-11-17,Regular,US,Social,Variant,Low
+P0003,2025-11-27,New,US,Paid Search,Control,Low
+P0004,2026-01-24,New,US,Paid Search,Variant,Low
+P0005,2025-11-28,Casual,US,Email,Variant,Medium
+P0006,2025-12-07,New,US,Social,Variant,Low
+P0007,2025-09-19,New,UK,Organic,Variant,Medium
+P0008,2026-01-27,Dormant,DE,Affiliate,Variant,Low
+P0009,2026-01-14,Casual,UK,Email,Variant,Low
+P0010,2025-11-14,New,US,Affiliate,Control,Low
+P0011,2025-09-07,Dormant,DE,Email,Control,Low
+P0012,2025-10-25,Casual,DE,Social,Variant,Low
+P0013,2026-01-08,VIP,DE,Organic,Variant,Low
+P0014,2025-09-19,New,UK,Organic,Variant,Low
+P0015,2025-11-08,Regular,UK,Organic,Control,Low
+P0016,2026-03-07,VIP,DE,Affiliate,Control,Medium
+P0017,2026-01-21,Casual,US,Affiliate,Variant,Low
+P0018,2025-11-29,New,CA,Affiliate,Variant,Low
+P0019,2026-01-13,New,US,Organic,Variant,Low
+P0020,2025-12-31,Dormant,US,Paid Search,Control,Low
+P0021,2025-10-23,New,US,Paid Search,Variant,Low
+P0022,2025-11-29,Regular,US,Social,Variant,Low
+P0023,2025-11-06,VIP,US,Organic,Control,Medium
+P0024,2025-11-16,New,UK,Organic,Variant,Low
+P0025,2025-10-26,Regular,BR,Organic,Control,Medium
+P0026,2025-10-09,Regular,UK,Paid Search,Variant,High
+P0027,2025-10-26,Casual,DE,Referral,Variant,Medium
+P0028,2025-10-22,VIP,AU,Social,Variant,Low
+P0029,2025-12-31,Dormant,US,Organic,Variant,Low
+P0030,2025-12-04,VIP,DE,Paid Search,Variant,Low
+P0031,2026-01-18,VIP,DE,Social,Variant,Low
+P0032,2025-11-26,New,UK,Paid Search,Variant,Low
+P0033,2025-12-23,VIP,US,Affiliate,Control,Low
+P0034,2025-10-05,Casual,AU,Social,Variant,Low
+P0035,2025-10-19,Casual,US,Referral,Control,Low
+P0036,2026-01-03,Regular,BR,Referral,Control,Low
+P0037,2025-11-22,Casual,US,Paid Search,Variant,Low
+P0038,2025-12-25,Casual,UK,Organic,Variant,Low
+P0039,2025-10-13,Regular,US,Paid Search,Variant,Medium
+P0040,2026-01-25,Regular,US,Organic,Variant,Low
+P0041,2025-10-29,New,US,Email,Control,Low
+P0042,2025-11-11,New,US,Affiliate,Variant,Low
+P0043,2025-12-16,Regular,CA,Organic,Variant,Low
+P0044,2025-07-16,New,US,Organic,Variant,High
+P0045,2025-10-12,New,AU,Referral,Variant,Low
+P0046,2025-11-21,Casual,UK,Social,Variant,Low
+P0047,2026-01-19,Casual,CA,Paid Search,Control,Medium
+P0048,2025-10-29,Casual,AU,Referral,Variant,Low
+P0049,2025-12-12,Casual,DE,Affiliate,Variant,Low
+P0050,2025-12-04,New,DE,Paid Search,Control,Low
+P0051,2025-12-13,Casual,UK,Social,Variant,Low
+P0052,2025-11-15,VIP,UK,Organic,Control,Medium
+P0053,2026-01-04,Casual,CA,Affiliate,Control,Low
+P0054,2025-10-28,New,US,Email,Variant,Low
+P0055,2025-11-28,Casual,DE,Social,Control,Medium
+P0056,2025-12-12,Casual,US,Paid Search,Control,Low
+P0057,2025-07-26,Regular,DE,Organic,Control,Low
+P0058,2025-10-12,Regular,DE,Organic,Control,Low
+P0059,2025-09-18,Dormant,AU,Social,Variant,Low
+P0060,2025-12-03,Regular,US,Affiliate,Variant,Low
+P0061,2025-12-31,New,DE,Social,Control,Low
+P0062,2025-11-24,VIP,US,Email,Variant,High
+P0063,2026-03-04,Dormant,US,Paid Search,Variant,Low
+P0064,2025-11-12,Regular,UK,Paid Search,Variant,Low
+P0065,2025-10-20,VIP,UK,Paid Search,Variant,Low
+P0066,2025-10-19,Casual,UK,Organic,Control,Low
+P0067,2026-01-29,Regular,US,Organic,Control,Medium
+P0068,2025-12-29,Regular,CA,Email,Variant,Low
+P0069,2025-11-17,Dormant,US,Paid Search,Control,Low
+P0070,2026-01-12,VIP,UK,Affiliate,Control,Low
+P0071,2025-10-15,Dormant,UK,Social,Control,Medium
+P0072,2026-01-29,Casual,US,Email,Control,Low
+P0073,2025-12-17,New,UK,Paid Search,Control,Low
+P0074,2025-11-22,Dormant,US,Social,Control,Low
+P0075,2025-09-14,Regular,AU,Paid Search,Variant,Low
+P0076,2025-11-12,Regular,UK,Affiliate,Control,Low
+P0077,2025-09-09,Casual,BR,Social,Variant,Low
+P0078,2025-11-28,Casual,US,Paid Search,Control,Low
+P0079,2026-01-29,VIP,UK,Email,Control,Low
+P0080,2025-10-04,Casual,CA,Organic,Variant,Low
+P0081,2026-02-17,Casual,US,Organic,Control,Low
+P0082,2025-12-28,Casual,US,Referral,Variant,Low
+P0083,2026-02-01,New,BR,Paid Search,Variant,Low
+P0084,2026-01-03,New,DE,Referral,Control,Low
+P0085,2025-11-08,New,BR,Organic,Control,Low
+P0086,2026-02-17,Casual,US,Affiliate,Control,Low
+P0087,2026-01-13,Casual,BR,Affiliate,Control,Low
+P0088,2025-09-29,Regular,UK,Affiliate,Control,Low
+P0089,2026-01-23,New,BR,Organic,Control,Low
+P0090,2026-01-06,Regular,AU,Referral,Variant,High
+P0091,2025-11-30,Regular,DE,Paid Search,Variant,Low
+P0092,2025-12-17,Dormant,DE,Organic,Variant,Low
+P0093,2025-11-15,Casual,AU,Affiliate,Control,Low
+P0094,2025-11-28,Casual,UK,Organic,Variant,Medium
+P0095,2025-11-26,Casual,DE,Social,Control,Medium
+P0096,2026-01-12,New,BR,Email,Variant,Low
+P0097,2025-12-23,Regular,BR,Social,Control,Low
+P0098,2025-12-22,Casual,CA,Referral,Control,Low
+P0099,2025-08-27,Casual,UK,Paid Search,Control,Medium
+P0100,2026-01-19,New,US,Paid Search,Variant,Medium
+P0101,2025-12-16,VIP,UK,Social,Control,Medium
+P0102,2025-09-23,Regular,US,Paid Search,Variant,Low
+P0103,2025-12-20,VIP,US,Affiliate,Control,Low
+P0104,2025-12-16,Regular,DE,Paid Search,Control,Low
+P0105,2025-12-01,Casual,US,Affiliate,Variant,Medium
+P0106,2025-08-15,New,US,Affiliate,Variant,Medium
+P0107,2025-11-21,Regular,US,Paid Search,Variant,Low
+P0108,2025-12-05,Dormant,AU,Affiliate,Variant,Low
+P0109,2025-11-04,VIP,UK,Paid Search,Control,Low
+P0110,2026-01-16,Regular,US,Affiliate,Control,Low
+P0111,2026-01-15,New,AU,Organic,Control,Low
+P0112,2026-03-19,Casual,BR,Affiliate,Variant,Low
+P0113,2026-01-09,Casual,BR,Paid Search,Variant,Low
+P0114,2025-10-11,Casual,UK,Social,Variant,Low
+P0115,2025-08-09,Regular,UK,Paid Search,Control,Low
+P0116,2026-01-25,New,CA,Organic,Control,Low
+P0117,2025-12-08,Dormant,BR,Referral,Variant,Low
+P0118,2026-02-24,New,UK,Paid Search,Control,Medium
+P0119,2025-11-01,Regular,AU,Paid Search,Variant,Medium
+P0120,2025-12-29,New,CA,Affiliate,Variant,Low
+P0121,2026-01-21,Regular,CA,Referral,Control,Low
+P0122,2025-07-26,Casual,BR,Affiliate,Control,Low
+P0123,2025-11-25,Casual,UK,Social,Variant,Low
+P0124,2025-11-11,VIP,AU,Paid Search,Control,Low
+P0125,2025-10-18,Casual,US,Paid Search,Control,Low
+P0126,2025-12-22,New,AU,Referral,Variant,Low
+P0127,2025-11-09,Casual,CA,Paid Search,Variant,Low
+P0128,2025-12-25,Casual,UK,Paid Search,Control,High
+P0129,2025-10-19,New,US,Affiliate,Control,Medium
+P0130,2025-12-16,New,DE,Paid Search,Control,Low
+P0131,2025-12-26,Regular,BR,Social,Variant,Low
+P0132,2025-12-18,New,AU,Affiliate,Control,Low
+P0133,2026-02-02,Regular,BR,Social,Variant,Low
+P0134,2025-09-10,New,DE,Email,Control,Low
+P0135,2025-09-09,New,DE,Affiliate,Variant,Low
+P0136,2025-09-23,Casual,UK,Paid Search,Variant,Low
+P0137,2025-12-31,Casual,AU,Paid Search,Variant,Low
+P0138,2026-01-20,Casual,DE,Referral,Variant,Medium
+P0139,2025-12-16,Dormant,US,Organic,Variant,Medium
+P0140,2025-10-19,Casual,US,Affiliate,Variant,Low
+P0141,2025-11-16,Regular,US,Affiliate,Variant,Low
+P0142,2026-01-24,Dormant,US,Organic,Control,Low
+P0143,2025-12-21,Regular,US,Affiliate,Variant,Medium
+P0144,2025-11-22,Dormant,US,Email,Control,Low
+P0145,2025-12-24,New,CA,Organic,Variant,Medium
+P0146,2025-12-25,Casual,UK,Paid Search,Control,Low
+P0147,2025-12-26,Dormant,AU,Affiliate,Control,Low
+P0148,2025-07-01,VIP,US,Organic,Control,Low
+P0149,2025-10-19,Regular,DE,Paid Search,Control,Low
+P0150,2025-12-04,New,DE,Organic,Control,Low
+P0151,2025-12-16,Casual,BR,Affiliate,Variant,Low
+P0152,2025-12-21,Regular,BR,Referral,Control,Low
+P0153,2025-11-14,Regular,DE,Social,Control,Medium
+P0154,2025-12-02,New,CA,Social,Control,Low
+P0155,2025-12-12,Casual,US,Affiliate,Variant,Low
+P0156,2026-01-23,Casual,BR,Organic,Variant,Low
+P0157,2025-12-15,Casual,US,Social,Variant,Medium
+P0158,2025-11-21,Regular,DE,Paid Search,Variant,Low
+P0159,2025-11-30,Dormant,DE,Affiliate,Control,Low
+P0160,2025-08-28,New,UK,Email,Control,Low
+P0161,2025-11-20,Regular,US,Organic,Variant,Low
+P0162,2025-12-24,Casual,US,Email,Control,Low
+P0163,2025-11-12,New,US,Social,Variant,Low
+P0164,2025-08-24,VIP,BR,Social,Variant,Low
+P0165,2026-02-07,Casual,AU,Email,Variant,Medium
+P0166,2026-02-13,Casual,US,Paid Search,Control,Low
+P0167,2025-10-23,Regular,US,Affiliate,Variant,Low
+P0168,2025-12-27,Casual,DE,Referral,Variant,Medium
+P0169,2025-09-19,New,US,Email,Variant,Low
+P0170,2026-01-10,New,US,Paid Search,Control,Medium
+P0171,2026-01-08,New,CA,Organic,Control,Low
+P0172,2025-10-22,New,DE,Social,Variant,Low
+P0173,2025-10-28,Casual,AU,Email,Variant,Medium
+P0174,2025-11-24,Casual,UK,Social,Control,Low
+P0175,2025-11-21,New,US,Organic,Control,Low
+P0176,2026-01-17,New,BR,Social,Control,Low
+P0177,2025-11-23,New,AU,Email,Control,Low
+P0178,2026-02-16,New,UK,Referral,Control,Low
+P0179,2025-12-12,Casual,CA,Email,Variant,Low
+P0180,2025-07-26,Casual,BR,Social,Control,Low
+P0181,2025-10-14,Casual,UK,Referral,Control,Low
+P0182,2025-11-12,Casual,UK,Affiliate,Variant,Low
+P0183,2025-12-08,Casual,UK,Paid Search,Variant,Low
+P0184,2026-01-06,VIP,US,Paid Search,Variant,Low
+P0185,2026-01-09,New,AU,Affiliate,Variant,Low
+P0186,2025-09-24,Casual,AU,Affiliate,Variant,Low
+P0187,2025-12-12,Casual,UK,Social,Variant,Medium
+P0188,2025-11-02,New,AU,Organic,Control,Medium
+P0189,2025-11-14,Casual,AU,Affiliate,Control,Low
+P0190,2025-12-30,New,US,Email,Control,Low
+P0191,2025-09-18,Casual,UK,Organic,Variant,Low
+P0192,2026-02-12,New,DE,Affiliate,Control,High
+P0193,2025-11-26,VIP,AU,Social,Variant,Low
+P0194,2025-12-23,Regular,AU,Paid Search,Control,Low
+P0195,2025-12-21,Casual,CA,Organic,Variant,Low
+P0196,2026-01-03,New,US,Organic,Variant,Low
+P0197,2025-10-25,Regular,BR,Social,Control,Medium
+P0198,2026-02-24,Casual,CA,Affiliate,Control,Low
+P0199,2025-12-20,New,CA,Organic,Variant,Low
+P0200,2025-10-09,Casual,BR,Paid Search,Variant,Medium
+P0201,2025-12-16,Casual,CA,Paid Search,Variant,Low
+P0202,2025-10-16,New,US,Organic,Control,Low
+P0203,2025-12-08,Casual,US,Paid Search,Variant,Low
+P0204,2025-09-03,Regular,UK,Affiliate,Variant,Low
+P0205,2025-12-20,New,BR,Social,Control,Low
+P0206,2025-12-03,New,AU,Affiliate,Variant,Medium
+P0207,2025-11-21,Regular,BR,Referral,Control,Medium
+P0208,2026-01-13,Casual,BR,Referral,Variant,Low
+P0209,2026-01-15,Regular,BR,Social,Variant,Low
+P0210,2026-01-08,New,BR,Paid Search,Control,Low
+P0211,2025-11-18,Regular,US,Paid Search,Control,Low
+P0212,2025-11-29,Casual,DE,Affiliate,Control,Low
+P0213,2025-10-31,New,AU,Organic,Variant,Low
+P0214,2025-10-05,Casual,BR,Social,Variant,Low
+P0215,2025-10-16,Casual,CA,Social,Control,Low
+P0216,2025-11-19,Regular,UK,Organic,Variant,Low
+P0217,2025-12-09,Casual,US,Affiliate,Variant,Low
+P0218,2025-10-12,Regular,AU,Organic,Variant,High
+P0219,2026-02-05,Regular,US,Social,Control,Low
+P0220,2025-09-29,New,US,Affiliate,Control,Low
+P0221,2025-12-07,Casual,AU,Referral,Variant,Medium
+P0222,2025-12-14,Casual,CA,Paid Search,Control,Low
+P0223,2025-12-04,Regular,US,Organic,Variant,Low
+P0224,2025-10-31,New,US,Email,Variant,Low
+P0225,2025-12-02,Regular,US,Referral,Variant,Low
+P0226,2025-11-21,Regular,DE,Organic,Control,Low
+P0227,2025-10-11,Dormant,AU,Affiliate,Control,Low
+P0228,2025-10-19,Regular,US,Organic,Control,Low
+P0229,2025-11-22,Regular,AU,Organic,Control,Low
+P0230,2025-12-09,Regular,US,Paid Search,Control,Low
+P0231,2025-12-19,Casual,UK,Organic,Variant,Low
+P0232,2025-11-19,Casual,UK,Organic,Control,Medium
+P0233,2026-01-07,Casual,DE,Organic,Control,Low
+P0234,2026-01-19,New,US,Organic,Control,Low
+P0235,2026-02-04,New,US,Referral,Variant,Low
+P0236,2025-08-22,VIP,CA,Email,Control,High
+P0237,2026-01-10,New,US,Email,Variant,Medium
+P0238,2025-11-16,Casual,CA,Affiliate,Control,Low
+P0239,2025-11-19,Dormant,UK,Organic,Variant,Low
+P0240,2026-01-03,New,US,Email,Control,Low
+P0241,2026-01-01,Regular,US,Organic,Control,Low
+P0242,2025-10-28,Casual,US,Organic,Variant,Medium
+P0243,2026-01-29,New,US,Paid Search,Variant,Low
+P0244,2025-11-19,VIP,US,Organic,Control,High
+P0245,2025-09-10,Regular,US,Organic,Control,Medium
+P0246,2025-08-12,Casual,UK,Affiliate,Variant,Medium
+P0247,2025-12-21,New,AU,Social,Variant,Medium
+P0248,2025-12-17,New,BR,Affiliate,Variant,Low
+P0249,2026-02-21,Regular,US,Paid Search,Control,Low
+P0250,2025-12-28,New,AU,Paid Search,Control,Medium
+P0251,2025-12-02,Regular,US,Organic,Variant,Medium
+P0252,2025-08-02,Casual,US,Organic,Control,Medium
+P0253,2026-02-13,Casual,BR,Paid Search,Control,Low
+P0254,2025-11-18,Casual,US,Social,Variant,Medium
+P0255,2025-11-24,VIP,AU,Affiliate,Control,Low
+P0256,2025-09-23,Casual,CA,Social,Control,Low
+P0257,2025-11-19,Casual,UK,Paid Search,Variant,Low
+P0258,2025-11-07,New,UK,Paid Search,Control,Low
+P0259,2025-11-10,Regular,BR,Email,Control,Medium
+P0260,2025-10-05,Casual,US,Social,Control,Low
+P0261,2025-12-13,Regular,US,Organic,Variant,Low
+P0262,2025-12-14,Casual,BR,Affiliate,Control,High
+P0263,2025-10-10,New,US,Referral,Control,Low
+P0264,2026-01-19,Dormant,US,Affiliate,Control,Low
+P0265,2026-02-02,Casual,US,Organic,Control,Medium
+P0266,2026-01-26,Dormant,US,Organic,Variant,Low
+P0267,2026-01-14,Dormant,US,Affiliate,Variant,Low
+P0268,2025-12-31,New,DE,Paid Search,Control,Low
+P0269,2025-09-25,New,US,Social,Control,High
+P0270,2025-10-03,Regular,AU,Affiliate,Control,Low
+P0271,2025-12-03,Casual,AU,Paid Search,Control,Low
+P0272,2025-12-18,Casual,US,Referral,Variant,Low
+P0273,2025-12-13,Casual,US,Affiliate,Control,Low
+P0274,2025-12-16,Casual,CA,Social,Variant,Low
+P0275,2025-12-25,Regular,UK,Organic,Control,Low
+P0276,2025-11-19,Regular,UK,Organic,Control,Low
+P0277,2025-11-15,New,UK,Email,Variant,Low
+P0278,2025-12-31,Casual,UK,Organic,Variant,Low
+P0279,2025-11-27,Regular,AU,Organic,Variant,Low
+P0280,2025-10-31,Regular,CA,Email,Variant,Low
+P0281,2026-01-21,Regular,US,Referral,Control,Medium
+P0282,2025-10-26,VIP,DE,Organic,Variant,Medium
+P0283,2025-12-16,VIP,BR,Paid Search,Variant,High
+P0284,2025-12-26,New,AU,Affiliate,Control,Low
+P0285,2025-10-24,Casual,DE,Referral,Variant,Low
+P0286,2025-11-28,Casual,UK,Referral,Variant,Low
+P0287,2026-01-22,Regular,CA,Organic,Control,Low
+P0288,2025-11-12,Casual,UK,Social,Control,Low
+P0289,2025-11-21,VIP,UK,Email,Control,Low
+P0290,2025-12-03,Regular,US,Social,Control,Medium
+P0291,2025-12-09,Casual,BR,Organic,Control,Low
+P0292,2025-11-06,Regular,US,Referral,Control,Medium
+P0293,2025-11-04,New,CA,Affiliate,Variant,Medium
+P0294,2025-12-05,New,UK,Organic,Variant,Low
+P0295,2025-12-16,Regular,BR,Email,Variant,Low
+P0296,2025-10-06,VIP,US,Social,Control,Low
+P0297,2026-01-28,Casual,US,Social,Variant,Low
+P0298,2025-09-29,Regular,UK,Referral,Control,Low
+P0299,2025-09-03,Casual,AU,Referral,Control,Low
+P0300,2025-12-21,Casual,BR,Paid Search,Control,Low
+P0301,2025-12-06,Dormant,UK,Organic,Control,Medium
+P0302,2025-07-01,Regular,UK,Social,Variant,Low
+P0303,2026-01-07,Regular,AU,Paid Search,Control,High
+P0304,2025-12-14,New,US,Affiliate,Variant,Low
+P0305,2025-12-22,Casual,UK,Organic,Control,Low
+P0306,2025-11-25,Casual,US,Organic,Variant,Medium
+P0307,2025-12-24,New,CA,Organic,Control,Low
+P0308,2025-10-26,Regular,UK,Referral,Control,Medium
+P0309,2025-12-06,New,CA,Social,Variant,Medium
+P0310,2025-10-30,Regular,AU,Social,Control,Low
+P0311,2025-09-20,New,DE,Social,Variant,Low
+P0312,2025-10-22,Casual,AU,Affiliate,Control,Low
+P0313,2025-11-01,Regular,DE,Referral,Control,Low
+P0314,2025-10-17,New,DE,Social,Control,Low
+P0315,2025-11-19,Regular,DE,Paid Search,Control,Low
+P0316,2025-12-26,New,UK,Referral,Variant,Medium
+P0317,2025-11-03,Casual,US,Paid Search,Variant,Medium
+P0318,2025-09-10,Casual,BR,Organic,Control,Low
+P0319,2025-12-24,New,CA,Paid Search,Variant,Low
+P0320,2026-01-27,Dormant,CA,Paid Search,Variant,Low
+P0321,2025-11-07,Casual,DE,Paid Search,Variant,Medium
+P0322,2025-09-25,Casual,US,Paid Search,Control,Low
+P0323,2025-08-17,New,CA,Organic,Variant,Low
+P0324,2025-11-27,Dormant,US,Referral,Variant,High
+P0325,2025-12-24,Casual,AU,Affiliate,Control,High
+P0326,2025-07-10,VIP,UK,Affiliate,Variant,Low
+P0327,2026-03-03,Casual,US,Email,Control,Low
+P0328,2025-10-20,Regular,UK,Affiliate,Control,Low
+P0329,2026-02-19,Casual,DE,Organic,Control,Low
+P0330,2025-12-03,Casual,UK,Affiliate,Control,Medium
+P0331,2025-09-27,Casual,US,Social,Control,Medium
+P0332,2025-12-13,Casual,CA,Affiliate,Control,Low
+P0333,2025-11-16,Casual,UK,Paid Search,Control,Medium
+P0334,2025-12-18,Regular,UK,Email,Variant,Medium
+P0335,2026-02-16,New,AU,Affiliate,Control,High
+P0336,2025-10-10,Regular,DE,Social,Variant,Low
+P0337,2026-01-31,Regular,US,Organic,Control,Medium
+P0338,2025-09-05,Regular,BR,Social,Control,Medium
+P0339,2026-02-02,New,UK,Organic,Variant,Low
+P0340,2025-07-31,New,US,Referral,Variant,Low
+P0341,2025-10-01,Casual,US,Social,Variant,Low
+P0342,2026-01-31,New,US,Organic,Control,Low
+P0343,2025-12-19,Dormant,DE,Affiliate,Control,Medium
+P0344,2025-12-07,Casual,DE,Organic,Variant,Low
+P0345,2026-01-08,Regular,UK,Paid Search,Control,Medium
+P0346,2025-12-16,New,DE,Organic,Variant,Low
+P0347,2025-08-29,Regular,UK,Referral,Variant,Medium
+P0348,2026-01-20,New,UK,Referral,Variant,Medium
+P0349,2025-09-10,Casual,CA,Email,Control,Low
+P0350,2026-01-19,Regular,US,Organic,Control,Medium
+P0351,2025-07-30,Regular,AU,Social,Variant,Low
+P0352,2025-12-21,Casual,BR,Paid Search,Variant,Low
+P0353,2025-12-13,Casual,BR,Referral,Variant,Low
+P0354,2026-01-23,VIP,US,Social,Control,Low
+P0355,2025-09-23,Casual,DE,Affiliate,Variant,Low
+P0356,2025-11-15,Casual,CA,Organic,Variant,Medium
+P0357,2025-12-01,Casual,CA,Organic,Variant,Medium
+P0358,2025-10-18,Casual,UK,Paid Search,Variant,Low
+P0359,2025-08-28,Regular,UK,Email,Control,Low
+P0360,2025-12-24,Regular,US,Affiliate,Variant,Low
+P0361,2025-10-17,Casual,US,Affiliate,Variant,Low
+P0362,2026-01-05,New,AU,Social,Control,Low
+P0363,2025-12-04,New,US,Paid Search,Control,Low
+P0364,2025-11-06,Dormant,AU,Social,Variant,Low
+P0365,2025-09-29,New,US,Organic,Variant,Medium
+P0366,2025-09-27,New,BR,Paid Search,Control,Low
+P0367,2025-11-24,Regular,UK,Organic,Variant,Low
+P0368,2025-10-03,Casual,US,Organic,Control,High
+P0369,2025-12-25,Dormant,DE,Email,Variant,Low
+P0370,2025-10-25,Casual,UK,Referral,Variant,Low
+P0371,2025-11-19,Regular,UK,Affiliate,Control,High
+P0372,2025-10-05,Casual,AU,Organic,Variant,Low
+P0373,2025-10-15,VIP,BR,Affiliate,Variant,Low
+P0374,2025-12-16,Dormant,BR,Referral,Variant,Low
+P0375,2026-01-31,Casual,BR,Affiliate,Control,Low
+P0376,2025-10-06,New,AU,Organic,Control,Medium
+P0377,2025-12-15,New,UK,Affiliate,Control,Medium
+P0378,2025-11-09,Casual,CA,Referral,Control,Low
+P0379,2026-02-05,New,BR,Affiliate,Control,Low
+P0380,2025-12-13,Casual,UK,Social,Control,Low
+P0381,2025-09-15,Casual,BR,Paid Search,Control,Low
+P0382,2025-11-02,New,CA,Referral,Variant,Low
+P0383,2025-12-01,Casual,BR,Referral,Control,Low
+P0384,2025-12-12,Regular,US,Referral,Control,Low
+P0385,2025-11-26,Regular,US,Affiliate,Variant,Low
+P0386,2025-12-05,New,US,Affiliate,Control,Medium
+P0387,2025-10-09,VIP,UK,Affiliate,Variant,Medium
+P0388,2026-01-08,New,CA,Referral,Variant,Low
+P0389,2025-11-30,Regular,US,Paid Search,Variant,Low
+P0390,2025-11-22,Casual,DE,Paid Search,Control,Low
+P0391,2025-11-05,Regular,US,Email,Control,Medium
+P0392,2025-12-29,Casual,AU,Social,Control,Medium
+P0393,2026-01-08,Casual,CA,Email,Control,Low
+P0394,2025-12-08,Casual,UK,Affiliate,Variant,Low
+P0395,2025-12-11,Regular,US,Social,Control,High
+P0396,2025-09-16,Casual,UK,Social,Control,High
+P0397,2025-10-25,New,AU,Social,Control,Low
+P0398,2026-01-24,Regular,DE,Paid Search,Variant,Medium
+P0399,2025-10-27,Dormant,BR,Email,Control,Low
+P0400,2025-10-05,Casual,US,Affiliate,Control,Medium
+P0401,2025-11-01,Casual,US,Affiliate,Variant,Low
+P0402,2025-12-12,Casual,AU,Social,Control,Low
+P0403,2025-11-21,Casual,US,Affiliate,Control,Low
+P0404,2026-02-10,New,AU,Organic,Variant,Low
+P0405,2025-11-23,Casual,US,Organic,Control,Low
+P0406,2025-12-21,Regular,AU,Paid Search,Control,Low
+P0407,2025-09-25,Casual,US,Email,Control,Low
+P0408,2025-12-28,Casual,UK,Organic,Variant,Medium
+P0409,2025-10-18,Regular,CA,Organic,Control,Low
+P0410,2025-11-23,Casual,AU,Organic,Control,Medium
+P0411,2025-10-12,Casual,BR,Affiliate,Variant,Low
+P0412,2025-12-19,VIP,BR,Paid Search,Control,Low
+P0413,2025-09-02,Regular,US,Social,Control,Medium
+P0414,2025-09-30,New,CA,Organic,Control,Low
+P0415,2025-12-19,Casual,UK,Affiliate,Control,Medium
+P0416,2025-12-01,Casual,US,Social,Control,Low
+P0417,2025-11-01,Regular,UK,Organic,Control,Low
+P0418,2025-10-08,Dormant,BR,Organic,Control,Low
+P0419,2026-01-07,Casual,DE,Email,Variant,Low
+P0420,2025-09-30,Casual,US,Paid Search,Control,Low
+P0421,2025-11-08,Regular,US,Affiliate,Variant,Low
+P0422,2025-10-25,Regular,AU,Social,Control,Medium
+P0423,2026-01-19,Dormant,UK,Paid Search,Control,Low
+P0424,2025-11-27,VIP,BR,Organic,Control,High
+P0425,2026-01-02,New,US,Referral,Variant,Low
+P0426,2025-12-21,Casual,BR,Referral,Variant,Medium
+P0427,2025-12-01,Casual,CA,Social,Variant,Low
+P0428,2025-08-18,Regular,BR,Paid Search,Variant,Low
+P0429,2025-12-04,New,US,Affiliate,Control,Low
+P0430,2025-10-21,Casual,BR,Paid Search,Control,Low
+P0431,2026-02-16,Casual,BR,Organic,Variant,Low
+P0432,2026-01-12,New,AU,Social,Control,Low
+P0433,2026-01-27,New,BR,Social,Variant,Low
+P0434,2026-01-04,Regular,US,Paid Search,Control,Medium
+P0435,2025-11-11,Regular,UK,Referral,Control,Medium
+P0436,2026-01-09,Casual,UK,Paid Search,Control,Medium
+P0437,2025-11-22,Regular,US,Affiliate,Variant,Low
+P0438,2025-11-18,New,BR,Referral,Variant,Low
+P0439,2026-01-13,New,AU,Organic,Control,Low
+P0440,2026-01-14,Regular,DE,Affiliate,Variant,Low
+P0441,2025-08-21,Regular,UK,Organic,Variant,Low
+P0442,2025-10-23,New,BR,Paid Search,Control,Low
+P0443,2025-11-07,Regular,BR,Organic,Control,Low
+P0444,2026-01-20,Dormant,BR,Paid Search,Variant,Medium
+P0445,2025-12-29,Casual,DE,Affiliate,Variant,Low
+P0446,2025-10-24,VIP,BR,Social,Control,Low
+P0447,2026-01-08,Casual,AU,Affiliate,Variant,Low
+P0448,2025-12-13,Regular,US,Paid Search,Variant,Low
+P0449,2025-12-13,New,BR,Referral,Variant,Medium
+P0450,2025-12-12,Regular,BR,Organic,Variant,Low
+P0451,2025-12-16,Regular,US,Referral,Control,Low
+P0452,2025-12-09,Dormant,BR,Referral,Control,Medium
+P0453,2025-07-01,New,US,Affiliate,Control,Low
+P0454,2026-01-12,Casual,US,Organic,Variant,Low
+P0455,2025-12-22,Casual,CA,Affiliate,Variant,High
+P0456,2025-10-12,Regular,US,Paid Search,Variant,Low
+P0457,2025-11-24,Casual,UK,Referral,Variant,Low
+P0458,2026-02-26,Dormant,BR,Affiliate,Variant,Low
+P0459,2025-08-30,Casual,US,Paid Search,Variant,Low
+P0460,2025-11-10,Casual,DE,Referral,Variant,Low
+P0461,2025-11-15,Dormant,UK,Paid Search,Variant,Medium
+P0462,2026-01-15,Casual,AU,Paid Search,Variant,Low
+P0463,2025-10-27,New,DE,Referral,Variant,Low
+P0464,2025-12-05,VIP,AU,Organic,Control,Medium
+P0465,2026-01-05,Casual,BR,Organic,Variant,Low
+P0466,2025-11-22,Regular,BR,Email,Control,Low
+P0467,2025-11-22,New,AU,Organic,Control,Low
+P0468,2025-09-23,New,US,Organic,Control,Low
+P0469,2025-12-30,Casual,CA,Affiliate,Variant,Low
+P0470,2026-02-04,Casual,BR,Organic,Control,Low
+P0471,2025-11-28,New,UK,Paid Search,Variant,Low
+P0472,2025-11-11,Casual,US,Affiliate,Control,Low
+P0473,2025-12-12,Regular,UK,Social,Variant,Low
+P0474,2025-11-23,Casual,BR,Email,Control,Medium
+P0475,2025-12-31,Casual,UK,Referral,Control,Low
+P0476,2025-11-17,Casual,UK,Social,Variant,Medium
+P0477,2025-08-06,Regular,US,Paid Search,Control,Low
+P0478,2025-12-18,Casual,US,Affiliate,Variant,Low
+P0479,2025-10-20,Dormant,UK,Organic,Variant,Low
+P0480,2025-12-24,Casual,DE,Paid Search,Control,Low
+P0481,2026-02-15,New,US,Organic,Control,Low
+P0482,2025-12-06,New,US,Paid Search,Control,Low
+P0483,2025-10-29,Regular,AU,Social,Control,Low
+P0484,2026-01-17,Regular,DE,Social,Control,Low
+P0485,2025-11-19,Regular,US,Paid Search,Control,Low
+P0486,2026-01-14,Regular,US,Paid Search,Variant,Low
+P0487,2025-11-07,Casual,US,Organic,Control,Medium
+P0488,2025-11-04,Casual,US,Affiliate,Variant,Low
+P0489,2025-11-16,Casual,BR,Referral,Variant,Low
+P0490,2025-12-17,Regular,UK,Organic,Control,Low
+P0491,2025-12-28,New,DE,Paid Search,Variant,Low
+P0492,2025-12-27,Regular,UK,Paid Search,Variant,Low
+P0493,2025-11-07,Casual,US,Affiliate,Variant,Low
+P0494,2025-09-17,Casual,AU,Email,Variant,Medium
+P0495,2025-10-20,Casual,AU,Organic,Variant,Low
+P0496,2025-12-20,Regular,US,Organic,Variant,Medium
+P0497,2026-01-08,VIP,AU,Affiliate,Control,Low
+P0498,2025-09-26,New,CA,Affiliate,Control,Medium
+P0499,2025-11-05,Dormant,US,Social,Control,Low
+P0500,2025-12-03,Casual,US,Organic,Control,Low

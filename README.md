@@ -1,134 +1,82 @@
 # iGaming KPI Analysis Project
 
-Simulated iGaming analytics portfolio project using SQL and Excel to analyze player revenue, deposits, withdrawals, churn, bonus abuse risk, and A/B test performance.
-
-This project was built to mirror the type of KPI monitoring, ad-hoc reporting, data validation, and business analysis expected from a Junior Data Analyst in the iGaming industry.
-
----
-
-## Dashboard Preview
-
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
-
----
-
 ## Project Overview
 
-The goal of this project is to analyze simulated iGaming player and transaction data and turn it into clear business insights.
+This is a portfolio-ready Junior Data Analyst project built around a simulated iGaming dataset. It mirrors the type of work described in roles that require SQL, Excel reporting, KPI monitoring, A/B test support, and data quality validation.
 
-The analysis focuses on core iGaming KPIs such as:
+The project analyzes fictional player, transaction, bonus, and A/B test data for Q1 2026.
 
-- GGR
-- NGR
-- Deposit volume
-- Withdrawal volume
-- Player LTV
-- Churn rate
-- Bonus cost
-- Bonus abuse risk
-- A/B test performance
-
-The project includes raw simulated datasets, SQL analysis queries, an Excel reporting workbook, a dashboard screenshot, a data dictionary, and a one-page case study summary.
-
----
+![Dashboard Preview](assets/dashboard_screenshot.png)
 
 ## Business Questions
-
-This project answers the following business questions:
 
 1. Which player segments generate the highest gross and net gaming revenue?
 2. Are bonuses improving player value or creating bonus abuse risk?
 3. Which players show signs of churn?
 4. Did the promotional A/B test improve deposit conversion?
-5. Are there any data quality issues or suspicious anomalies in the dataset?
+5. Are there data quality issues or suspicious anomalies?
 
----
+## Tools and Skills Demonstrated
 
-## Tools Used
-
-- SQL
-- Excel
-- Pivot-style reporting
-- KPI calculations
-- A/B test analysis
-- Data validation checks
-- Simulated business reporting workflow
-
----
-
-## Files Included
-
-| File | Description |
-|---|---|
-| `iGaming_KPI_Case_Study.pdf` | One-page business summary of the project, findings, and recommendations |
-| `iGaming_KPI_Workbook.xlsx` | Excel workbook with KPI reporting, dashboard, analysis tables, and validation checks |
-| `SQL_Queries.sql` | SQL queries used for KPI calculations, player analysis, churn logic, bonus abuse flags, and data validation |
-| `data_dictionary.md` | Explanation of dataset fields and KPI definitions |
-| `assets/dashboard_screenshot.png` | Dashboard preview image |
-| `datasets/players.csv` | Simulated player profile dataset |
-| `datasets/transactions.csv` | Simulated transaction and betting activity dataset |
-| `datasets/bonuses.csv` | Simulated bonus and promotion dataset |
-| `datasets/ab_test_results.csv` | Simulated A/B test results dataset |
-
----
-
-## Dataset Overview
-
-This project uses simulated data representing a fictional iGaming platform.
-
-### Players Dataset
-
-Includes player-level information such as:
-
-- Player ID
-- Registration date
-- Country or region
-- Player segment
-- Acquisition channel
-- Account status
-
-### Transactions Dataset
-
-Includes simulated activity such as:
-
-- Deposits
-- Withdrawals
-- Stakes/wagers
-- Winnings
-- Bonus usage
-- Game type
-- Transaction date
-
-### Bonuses Dataset
-
-Includes promotional bonus activity such as:
-
-- Bonus amount
-- Bonus type
-- Player ID
-- Campaign ID
-- Redemption status
-
-### A/B Test Dataset
-
-Includes simulated control and variant group performance for a promotional campaign.
-
-Metrics include:
-
-- Test group
-- Number of users
-- Depositors
-- Conversion rate
-- Revenue per user
-- Retention rate
-
----
+- SQL analysis using joins, aggregations, CASE logic, CTEs, date filtering, and validation checks
+- Excel dashboarding and KPI reporting
+- Pivot-style summaries and ad-hoc reporting logic
+- iGaming KPI definitions and calculations
+- A/B test interpretation using conversion rate, lift, and p-value
+- Data quality checks for duplicates, nulls, negative values, and out-of-range dates
+- Business-friendly written communication
 
 ## KPIs Analyzed
 
-### GGR — Gross Gaming Revenue
+| KPI | Definition Used |
+|---|---|
+| GGR | Stakes - Winnings |
+| NGR | GGR - Bonus Costs |
+| Deposit Volume | Total player deposits |
+| Withdrawal Volume | Total player withdrawals |
+| Active Players | Players with Q1 transaction activity |
+| Churn Rate | Players with no activity in the last 30 days as of 2026-04-01 |
+| Player LTV | Historical NGR per player during the observation window |
+| Bonus Cost | Total bonus value awarded |
+| Bonus Abuse Flag | High bonus-to-deposit ratio + negative NGR + meaningful bonus amount |
+| Conversion Rate | A/B test players with deposit conversion / total players |
 
-GGR measures gross player revenue before deductions.
+## Key Findings
 
-```text
-GGR = Total Stakes - Total Winnings
+- VIP and Regular segments produced the strongest net revenue, but higher bonus costs created a need to evaluate promotions by NGR rather than GGR alone.
+- Several players were flagged for potential bonus abuse based on high bonus usage, low deposit behavior, and negative NGR.
+- The promotional A/B test showed a higher deposit conversion rate for the Variant group than the Control group.
+- The test should still be evaluated by net revenue impact, not conversion alone.
+- Data quality checks identified intentionally inserted issues, including duplicate transaction IDs, missing player IDs, negative monetary values, and out-of-range dates.
+
+## Files Included
+
+| File | Purpose |
+|---|---|
+| `iGaming_KPI_Workbook.xlsx` | Main Excel workbook with dashboard, KPI summaries, data quality checks, and source data |
+| `SQL_Queries.sql` | Redshift-style SQL queries for KPI calculations and validation |
+| `iGaming_KPI_Case_Study.pdf` | One-page business case study for recruiter/hiring-manager review |
+| `data_dictionary.md` | Dataset fields and KPI definitions |
+| `dashboard_screenshot.png` | Visual preview of dashboard |
+| `datasets/players.csv` | Simulated player dimension table |
+| `datasets/transactions.csv` | Simulated transaction fact table |
+| `datasets/bonuses.csv` | Simulated bonus campaign data |
+| `datasets/ab_test_results.csv` | Simulated A/B test result data |
+
+## How I Would Explain This Project in an Interview
+
+I built a simulated iGaming KPI analysis project to mirror the type of work expected from a Junior Data Analyst. The project uses player, transaction, bonus, and A/B test data to calculate key business metrics like GGR, NGR, deposits, withdrawals, churn, LTV, and bonus abuse indicators.
+
+The main focus was not just producing numbers, but validating whether those numbers made sense. I included data quality checks for duplicate IDs, missing player IDs, negative values, and out-of-range transaction dates. I also summarized the A/B test by conversion rate, lift, p-value, and business recommendation.
+
+## Resume Bullet Version
+
+- Built a simulated iGaming analytics project using SQL and Excel to calculate GGR, NGR, deposit volume, withdrawal volume, player LTV, churn rate, bonus cost, and bonus abuse indicators.
+- Wrote Redshift-style SQL queries using JOINs, GROUP BY, CASE WHEN, CTEs, date filtering, and aggregations to analyze player and transaction behavior.
+- Created an Excel reporting workbook with KPI summaries, dashboard visuals, data validation checks, and A/B test analysis.
+- Flagged potential data quality issues including duplicate transaction IDs, missing player IDs, negative values, and unusual date patterns.
+- Summarized findings in a one-page business case study for non-technical stakeholders.
+
+## Disclaimer
+
+All data in this project is simulated and fictional. No real gambling, customer, or financial data is included.
